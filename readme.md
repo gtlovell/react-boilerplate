@@ -1,1 +1,1 @@
-# React Boilerplate
+# Super Dope React Boilerplate
